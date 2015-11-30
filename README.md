@@ -1,5 +1,5 @@
-gyetman.github.io
+gyetman.github.io -Greg
 =================
 
-Repository to create user page.
+Personal site, mostly to check out projects and libraries related to GIS. 
 
